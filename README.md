@@ -36,8 +36,8 @@ Yes — Scene Cards is a universal purchase. Download on Mac from the Mac App St
 
 ## Compatibility
 
-- iPhone and iPad: iOS 17 or later
-- Mac: macOS 14 (Sonoma) or later
+- iPhone and iPad: iOS 16.5 or later
+- Mac: macOS 13 (Ventura) or later
 
 ## Privacy
 
