@@ -15,7 +15,7 @@ You can also email: [keithtunney@me.com]
 1. **Launch the app** — tap New Wall to create a new Scene Cards document
 2. **Import a script** — use Import Script PDF or FDX from the overflow menu (iOS) or File menu (macOS)
 3. **Import a schedule** — use the Schedule mode and import a one-liner PDF, then import reports from camera , sound and continuity for each day
-4. **Tap any scene card** to open the Inspector and add any folders, files, write notes, take a picture add images to your reference section.
+4. **Tap any scene card** to open the Inspector and add any folders, files, write notes, take a picture add images and videos to your scene reference section.
 
 ## Frequently Asked Questions
 
