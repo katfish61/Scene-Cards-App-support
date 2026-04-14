@@ -14,8 +14,8 @@ You can also email: [keithtunney@me.com]
 
 1. **Launch the app** — tap New Wall to create a new Scene Cards document
 2. **Import a script** — use Import Script PDF or FDX from the overflow menu (iOS) or File menu (macOS)
-3. **Import a schedule** — use the Calendar mode and import a one-liner PDF
-4. **Tap any scene card** to open the Inspector and add notes, images and reference files
+3. **Import a schedule** — use the Schedule mode and import a one-liner PDF
+4. **Tap any scene card** to open the Inspector and add any folders, files, write notes, take a picture add images to your reference section.
 
 ## Frequently Asked Questions
 
@@ -31,12 +31,12 @@ Some scripts use watermarking that can interfere with character detection. Try r
 **Where is my data stored?**
 All data is stored locally inside the .scenecards document file. You can back it up, share it, or move it like any other file. There is no cloud sync.
 
-**The app is available on iPhone/iPad — is there a Mac version?**
+**The app is available on iPad — is there a Mac version?**
 Yes — Scene Cards is a universal purchase. Download on Mac from the Mac App Store.
 
 ## Compatibility
 
-- iPhone and iPad: iOS 16.5 or later
+- iPad: iOS 16.5 or later
 - Mac: macOS 13 (Ventura) or later
 
 ## Privacy
