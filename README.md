@@ -20,13 +20,10 @@ You can also email: [keithtunney@me.com]
 ## Frequently Asked Questions
 
 **My script imported but some scenes are missing**
-Check that the file is a screenplay PDF, not a one-liner schedule. The importer looks for INT/EXT scene headings. Password-protected PDFs are not supported.
+Check that the file is a screenplay PDF, not a one-liner schedule. The importer looks for INT/EXT scene headings.
 
 **My schedule imported but shows no data**
 The schedule importer expects a one-liner PDF (breakdown sheet). Standard script PDFs will not work here. Make sure the PDF has selectable text — scanned images cannot be read.
-
-**Characters are missing from my scene cards after import**
-Some scripts use watermarking that can interfere with character detection. Try re-importing, or add characters manually via the Characters button in the script panel.
 
 **Where is my data stored?**
 All data is stored locally inside the .scenecards document file. You can back it up, share it, or move it like any other file. There is no cloud sync.
